@@ -19,3 +19,11 @@ data/journal.txt
 
 # Build directories
 build/
+# Linux kernel generated files
+*.cmd
+*.ko
+*.mod
+*.mod.c
+*.o
+*.symvers
+modules.order
