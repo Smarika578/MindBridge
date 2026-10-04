@@ -1,0 +1,21 @@
+# Compiled executables
+mindbridge
+test_gui
+
+# Object files
+*.o
+
+# Linux kernel module build files
+*.ko
+*.mod
+*.mod.c
+*.symvers
+Module.symvers
+modules.order
+
+# Local personal data
+data/moods.txt
+data/journal.txt
+
+# Build directories
+build/
